@@ -2,3 +2,7 @@ path: "data gigi"
 train: train/image
 val: validation/image
 test: test/image
+
+nc: 1
+names:
+  0: gigi

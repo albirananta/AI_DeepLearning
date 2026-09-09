@@ -1,5 +1,11 @@
 venv/
-*.pt
+.venv/
+.ipynb_checkpoints/
 runs/
-.vscode/
+*.pt
+data gigi/train/image/
+data gigi/validation/image/
+data gigi/test/image/
 __pycache__/
+*/__pycache__/
+ultralytics/
