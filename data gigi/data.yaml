@@ -1,0 +1,4 @@
+path: "data gigi"
+train: train/image
+val: validation/image
+test: test/image
