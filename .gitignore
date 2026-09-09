@@ -1,0 +1,5 @@
+venv/
+*.pt
+runs/
+.vscode/
+__pycache__/
